@@ -18,13 +18,6 @@ This project demonstrates how to combine **YOLO11n** for object detection with a
 - ✅ Visualizations with bounding boxes, track IDs, and counting line
 - 🚫 No use of `ObjectCounting` libraries — all logic is implemented manually for flexibility
 
----
-
-## 📷 Demo
-
-![Demo](./demo.gif)
-
----
 
 ## 🧠 How It Works
 
